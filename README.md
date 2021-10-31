@@ -10,7 +10,7 @@
 左倾切换为上一屏 右倾切换为下一屏 后倾则回到第一屏
 
 #### 接线
-![image](https://github.com/jayxtt999/Esp8266_Mpu6560_U8G2/blob/master/image/Esp8266_Mpu6560_U8G2_bb.svg)
+![image](https://github.com/jayxtt999/Esp8266_Mpu6560_U8G2/blob/master/image/20211031193041.png)
 D1mini    Mpu6560
 D3 -> SCL
 D4 -> SDA
