@@ -10,7 +10,7 @@
 左倾切换为上一屏 右倾切换为下一屏 后倾则回到第一屏
 
 #### 接线
-![image](image/image/Esp8266_Mpu6560_U8G2_bb.svg)
+![image](https://github.com/jayxtt999/Esp8266_Mpu6560_U8G2/blob/master/image/Esp8266_Mpu6560_U8G2_bb.svg)
 D1mini    Mpu6560
 D3 -> SCL
 D4 -> SDA
@@ -26,7 +26,14 @@ VCC -> VCC
 #### 代码需要改动项目
 修改`getStockData`方法中的地址，股票数据需要搭建一个服务提供接口用于显示数据，这里使用了php在(https://github.com/jayxtt999/Esp8266_Mpu6560_U8G2_PHP)
 
-![image](image/image/20211031183837.jpg)
-![image](image/image/20211031183115.jpg)
-![image](image/image/20211031183224.jpg)
-![image](image/image/test.gif)
+### TODO
+- 倾斜切换需要调优，实际操作中不太灵敏
+
+
+![image](https://github.com/jayxtt999/Esp8266_Mpu6560_U8G2/blob/master/image/20211031183837.jpg)
+![image](https://github.com/jayxtt999/Esp8266_Mpu6560_U8G2/blob/master/image/20211031183115.jpg)
+![image](https://github.com/jayxtt999/Esp8266_Mpu6560_U8G2/blob/master/image/20211031183224.jpg)
+![image](https://github.com/jayxtt999/Esp8266_Mpu6560_U8G2/blob/master/image/test.gif)
+
+
+
