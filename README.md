@@ -27,6 +27,9 @@ VCC -> VCC
 
 #### 代码需要改动项目
 修改`getStockData`方法中的地址，股票数据需要搭建一个服务提供接口用于显示数据，这里使用了php在(https://github.com/jayxtt999/Esp8266_Mpu6560_U8G2_PHP)
+#### 2021年11月10日 新增go版本的服务 (https://github.com/jayxtt999/ESP8266_MPU6560_U8G2_GO)
+
+
 
 ### TODO
 - 倾斜切换需要调优，实际操作中不太灵敏
