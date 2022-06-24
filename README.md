@@ -33,7 +33,7 @@ VCC -> VCC
 
 ### TODO
 - 倾斜切换需要调优，实际操作中不太灵敏
-- 珍惜生命，原理A股[狗][狗][狗]
+- 珍惜生命，远离A股[狗][狗][狗]
 
 
 ![image](https://github.com/jayxtt999/Esp8266_Mpu6560_U8G2/blob/master/image/20211031183837.jpg)
